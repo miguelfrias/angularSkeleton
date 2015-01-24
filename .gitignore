@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+/app/styles/**/*.css
+/node_modules
+/app/bower_components
+/.sass-cache
+/dist
